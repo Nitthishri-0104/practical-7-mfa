@@ -1,0 +1,177 @@
+body{
+  margin:0;
+  background-color:  hsl(226, 43%, 10%);
+ 
+}
+.black{
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+h1{
+    padding-left: 20px;
+    font-weight: 200;
+}
+h2{
+    font-size: 35px;
+    font-weight: 300;
+}
+p{
+   color:rgb(174, 191, 206);
+   padding-left: 20px;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+}
+a{
+    color: rgb(185, 186, 233);
+    text-decoration: none;
+    margin: 8px;
+    padding-left: 10px;
+}
+a:hover{
+    color: white;
+}
+.column1{
+background-color: hsl(235,46%,20%);
+height:460px;
+width:250px;
+border-radius: 15px;
+margin-left: 180px;
+margin-top: 120px;
+
+}
+.bigbox{
+    background-color: hsl(264,64%,52%);
+    height:330px;
+    width:250px;
+    border-radius: 15px;
+}
+.bigbox h1{
+    color:white;
+    font-size: 30px;
+
+}
+.bigbox h6{
+    color:white;
+    font-size: 15px;
+
+}
+
+ .box1 .sub1{
+    background-color:rgb(255,139,100);
+   height:100px;
+   width:180px;
+   border-radius: 15px;
+}
+ .box1 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  margin-top: -10px;
+  
+  
+}
+.box2 .sub1{
+    background-color:hsl(195,74%,62%);
+   height:100px;
+   width:180px;
+   border-radius: 15px;
+
+}
+ .box2 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  
+}
+.box3 .sub1{
+    background-color:hsl(348,100%,68%);
+   height:200px;
+   width: 180px;
+   border-radius: 15px;
+}
+ .box3 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  
+}
+.box4 .sub1{
+    background-color:hsl(145,58%,55%);
+   height:200px;
+   width:180px;
+   border-radius: 15px;
+   margin-top: 40px;
+}
+ .box4 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  
+}
+.box5 .sub1{
+    background-color:hsl(264,64%,52%);
+   height:200px;
+   width:180px;
+   border-radius: 15px;
+   margin-top: 40px;
+}
+ .box5 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  
+}
+.box6 .sub1{
+    background-color:hsl(43,84%,65%);
+   height:200px;
+   width:180px;
+   border-radius: 15px;
+   margin-top: 40px;
+}
+ .box6 .sub2{
+  background-color:  hsl(235,46%,20%);
+  height:150px;
+  width:180px;
+  border-radius: 15px;
+  
+}
+
+.side{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 120px;
+    
+    
+}
+h2,h3{
+    color: white;
+    padding-left: 20px;
+}
+.whole{
+    display:flex;
+    flex-direction:row;
+}
+.row1,.row2{
+    display: flex;
+    flex-direction: row;
+
+}
+.box2,.box3,.box5,.box6{
+    margin-left: 20px;
+}
+
+.game{
+    height: 50px;
+    width: 60px;
+    margin-left: 80px;
+}
